@@ -6,7 +6,7 @@ public class Exercise8 {
   public static void main(String[] args) {
     StaticTest first = new StaticTest();
     StaticTest second = new StaticTest();
-    first.i = 100;
-    System.out.println(second.i);
+    first.only1 = 100;
+    System.out.println(second.only1);
   }
 }
