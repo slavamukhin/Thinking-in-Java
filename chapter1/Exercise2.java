@@ -15,7 +15,17 @@
 //  }
 //}
 
+/** Глава 1 Упражнение 15.
+ * Выводит строку "Привет, мир".
+ * @author Mukhin
+ * @version 1.0
+ */
 public class Exercise2 {
+/** Точка входа в класс и приложение
+ * @param args Массив строковых аргументов
+ * @throws exceptions Исключения не выдаются
+ * @return void
+ */
   public static void main(String[] args) {
     System.out.println("Привет, мир");
   }
